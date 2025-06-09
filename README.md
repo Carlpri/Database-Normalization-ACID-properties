@@ -1,1 +1,0 @@
-"# Database-Normalization-ACID-properties" 
