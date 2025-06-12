@@ -149,25 +149,25 @@ Students:
 
 # Applications of Normal Forms in DBMS
     
-    ➔  Ensures Data Consistency:  Prevents data anomalies by ensuring each piece of data is stored in one place, reducing inconsistencies. 
+➔  **Ensures Data Consistency:**  Prevents data anomalies by ensuring each piece of data is stored in one place, reducing inconsistencies. 
 
-    ➔  Reduces Data Redundancy:  Minimizes repetitive data, saving storage space and avoiding errors in data updates or deletions. 
+➔  **Reduces Data Redundancy:**  Minimizes repetitive data, saving storage space and avoiding errors in data updates or deletions. 
 
-    ➔  Improves Query Performance:  Simplifies queries by breaking large tables into smaller, more manageable ones, leading to faster data retrieval. 
+➔  **Improves Query Performance:**  Simplifies queries by breaking large tables into smaller, more manageable ones, leading to faster data retrieval. 
 
-    ➔  Enhances Data Integrity:  Ensures that data is accurate and reliable by adhering to defined relationships and constraints between tables. 
+➔  **Enhances Data Integrity:**  Ensures that data is accurate and reliable by adhering to defined relationships and constraints between tables. 
 
-    ➔  Easier Database Maintenance:  Simplifies updates, deletions, and modifications by ensuring that changes only need to be made in one place, reducing the risk of errors. 
+➔  **Easier Database Maintenance:**  Simplifies updates, deletions, and modifications by ensuring that changes only need to be made in one place, reducing the risk of errors. 
 
-    ➔  Facilitates Scalability:  Makes it easier to modify, expand, or scale the database structure as business requirements grow. 
+➔  **Facilitates Scalability:**  Makes it easier to modify, expand, or scale the database structure as business requirements grow. 
 
-    ➔  Supports Better Data Modeling:  Helps in designing databases that are logically structured, with clear relationships between tables, making it easier to understand and manage. 
+➔  **Supports Better Data Modeling:**  Helps in designing databases that are logically structured, with clear relationships between tables, making it easier to understand and manage. 
 
-    ➔  Reduces Update Anomalies:  Prevents issues like insertion, deletion, or modification anomalies that can arise from redundant data. 
+➔  **Reduces Update Anomalies:**  Prevents issues like insertion, deletion, or modification anomalies that can arise from redundant data. 
 
-    ➔  Improves Data Integrity and Security:  By reducing unnecessary data duplication, normal forms help ensure sensitive information is securely and correctly maintained. 
+➔  **Improves Data Integrity and Security:**  By reducing unnecessary data duplication, normal forms help ensure sensitive information is securely and correctly maintained. 
 
-    ➔  Optimizes Storage Efficiency:  By organizing data into smaller tables, storage is used more efficiently, reducing the overhead for large databases 
+➔  **Optimizes Storage Efficiency:**  By organizing data into smaller tables, storage is used more efficiently, reducing the overhead for large databases 
 
 
 # ACID PROPERTIES OF A DATABASE.
@@ -294,7 +294,7 @@ They prevent partial updates from corrupting the data and ensure that the databa
 4.  **Recovery:**  ACID properties ensure that in case of any failure or crash, the system can recover the data up to the point of failure or crash.
 
 
-        **Disadvantages of ACID Properties in DBMS** 
+**Disadvantages of ACID Properties in DBMS** 
 
 1.  **Performance Overhead:**  ACID properties can introduce performance costs, especially when enforcing isolation between transactions or ensuring atomicity. 
 
