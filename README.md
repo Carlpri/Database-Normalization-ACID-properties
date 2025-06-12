@@ -174,11 +174,11 @@ Students:
 
 ACID stands for  **Atomicity**  ,  **Consistency**  ,  **Isolation**  , and  **Durability**.
 
-    These four key properties define how a transaction should be processed in a reliable and predictable manner, ensuring that the database remains consistent, even in cases of failures or concurrent accesses. 
+These four key properties define how a transaction should be processed in a reliable and predictable manner, ensuring that the database remains consistent, even in cases of failures or concurrent accesses. 
 
 **What Are Transactions in DBMS?**  A transaction in DBMS refers to a sequence of operations performed as a single unit of work. These operations may involve reading or writing data to the database. 
 
-    To maintain data integrity, DBMS ensures that each transaction adheres to the ACID properties. Think of a transaction like an ATM withdrawal. When we withdraw money from our account, the transaction involves several steps:
+To maintain data integrity, DBMS ensures that each transaction adheres to the ACID properties. Think of a transaction like an ATM withdrawal. When we withdraw money from our account, the transaction involves several steps:
 
     ●  Checking your balance. 
 
@@ -307,7 +307,7 @@ They prevent partial updates from corrupting the data and ensure that the databa
 
 In modern applications, ensuring the  reliability  and  consistency  of data is crucial. 
 
-    ACID properties are fundamental in sectors like:
+**ACID properties are fundamental in sectors like:**
 
 ●  **Banking:**  Transactions involving money transfers, deposits, or withdrawals must maintain strict consistency and durability to prevent errors and fraud. 
 
